@@ -1,0 +1,10 @@
+﻿  Random.cpp
+  Player.cpp
+  Monster.cpp
+  Map.cpp
+  Game.cpp
+c:\users\david\source\repos\rpg_text_adventure\rpg_text_adventure\game.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+c:\users\david\source\repos\rpg_text_adventure\rpg_text_adventure\player.cpp(171): warning C4715: 'Player::attack': not all control paths return a value
+  RPG_Text_Adventure.vcxproj -> C:\Users\david\Source\Repos\RPG_Text_Adventure\x64\Debug\RPG_Text_Adventure.exe
+  RPG_Text_Adventure.vcxproj -> C:\Users\david\Source\Repos\RPG_Text_Adventure\x64\Debug\RPG_Text_Adventure.pdb (Partial PDB)
